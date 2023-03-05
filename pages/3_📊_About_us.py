@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="About the us", page_icon="📊",layout="wide")
+st.set_page_config(page_title="About us", page_icon="📊",layout="wide")
 
 st.title("About us")
 
