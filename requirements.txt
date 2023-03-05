@@ -5,3 +5,4 @@ tensorflow
 streamlit
 matplotlib
 plotly
+opencv-python-headless
