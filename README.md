@@ -11,7 +11,7 @@ Gender classification system uses face of a person from a given image to tell th
 ## How to use this repo:
 To use this repo first, you need to clone it with this cammand below:
 ```
-git <your_ul >
+git clone https://github.com/otman-ai/Gender-Classification.git
 ```
 After that you have to create your virtuel enviroment.Go to the your local directory then type:
 
