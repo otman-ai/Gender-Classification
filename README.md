@@ -1,5 +1,6 @@
 # Gender-Classification-Detecion
 Build Machine learning model that can classify the gender in a given image
+See the demo [here](https://otman-ai-gender-classification--hello-sko6hj.streamlit.app/)
 ## Content of this page:
 * [What is gender classification](#what-is-gender-classification)
 * [How to use this repo](#how-to-use-this-repo)
