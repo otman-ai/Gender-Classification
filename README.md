@@ -24,7 +24,7 @@ install all the requirements:
 pip install requirements.txt
 ```
 in the repo you can find :
-* `Gender Classification Prototype` witch is notebook that content all of model building codes. 
+* `Gender Classification Prototype` whitch is notebook that content all of model building codes. 
 * `👋_Hello.py` python script that deploys the model in to web server with  a help of streamlit.
 * `model_performances.csv` file i csv formatn that track our models performance 
 * inside *pages* folder there is :
